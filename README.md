@@ -6,3 +6,7 @@ There is only one webpage which is divided in 5 sections.
 3. Album Section - This section shows photographer in a very awesome way.
 4. Rating and About photographer - Reviewes given by our Users.
 5.Contact Section - Contact details are mentioned there.
+
+
+**Link of website:**
+**https://rashi816.github.io/Website/web.html**
